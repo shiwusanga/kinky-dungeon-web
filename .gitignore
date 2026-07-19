@@ -1,0 +1,3 @@
+# local rollback backups (do not deploy)
+out/main.js.bak
+Screens/MiniGame/KinkyDungeon/Text_KinkyDungeon.csv.bak
