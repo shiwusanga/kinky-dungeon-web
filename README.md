@@ -4,6 +4,8 @@
 > A browser-playable Roguelike dungeon crawler — **no download or install required**.
 
 [▶ 立即游玩 / Play now (GitHub Pages)](https://shiwusanga.github.io/kinky-dungeon-web/)
+[📖 项目介绍页 / Project Intro](https://shiwusanga.github.io/kinky-dungeon-web/about.html)
+
 ![预览 / Preview](assets/preview.gif)
 
 > 想换成真实游戏录屏？用 OBS / ShareX 录一段网页版游玩画面，覆盖 `assets/preview.gif` 即可（建议 480×270 以内、3 秒内循环）。
